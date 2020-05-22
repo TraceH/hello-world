@@ -1,4 +1,4 @@
 # hello-world
-the starter repo
 
-and here is something about me: *blank*
+
+and here is something about me: love pets
